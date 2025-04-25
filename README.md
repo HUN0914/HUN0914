@@ -18,6 +18,7 @@
     </p>
 </div>
 
+<!-- 📬 Contact me -->
 <div align="left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> 
     <p>
@@ -27,17 +28,14 @@
         <a href="https://velog.io/@hun01/posts"> 
             <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
         </a>
-        <a href="https://github.com/HUN0914">
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHUN0914&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" />
-        </a>
     </p>
 </div>
 
+<!-- 📊 Stats + 방문자 수 -->
 <div align="left"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-        <img src="https://github-readme-stats.vercel.app/api?username=HUN0914&bg_color=180,f0effb,00000000&title_color=000000&text_color=000000" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUN0914&layout=compact&bg_color=180,f0effb,00000000&title_color=000000&text_color=000000" />
-        <a href="https://solved.ac/bkh0914/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bkh0914" />
-        </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=HUN0914&bg_color=180,f0effb,00000000&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUN0914&layout=compact&bg_color=180,f0effb,00000000&title_color=000000&text_color=000000" />
+    <br/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHUN0914&count_bg=%23000000&title_bg=%23000000&title=GitHub&edge_flat=false" />
 </div>
