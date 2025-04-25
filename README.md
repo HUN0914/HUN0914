@@ -27,10 +27,10 @@
         <a href="https://velog.io/@hun01/posts"> 
             <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
         </a>
-    </p>  
-    <a href="https://github.com/HUN0914">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHUN0914&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" />
-    </a>
+        <a href="https://github.com/HUN0914">
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHUN0914&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" />
+        </a>
+    </p>
 </div>
 
 <div align="left"> 
