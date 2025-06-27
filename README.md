@@ -1,5 +1,5 @@
 <div align="left"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 백광훈 Baek Gwang Hun </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 백광훈 GwangHun Baek </h2>  
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     </p>
 </div>
