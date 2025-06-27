@@ -1,7 +1,6 @@
 <div align="left"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 백광훈 Baek Gwang Hun </h2>  
     <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-        성장하고 싶은 개발자 백광훈입니다. <br> 백엔드 개발자를 목표로 열심히 공부하고 있습니다.
     </p>
 </div>
 
