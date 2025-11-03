@@ -1,42 +1,30 @@
 <div align="left"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 백광훈 GwangHun Baek </h2>  
-    <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    </p>
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔗 Algorithm </h3>  
+    <a href="https://solved.ac/bkh0914/">
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bkh0914" alt="Baekjoon solved.ac badge" />
+    </a>
 </div>
 
 <div align="left">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h3> 
     <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/JPA-F7DF1E?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     </p>
 </div>
 
 <div align="left">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> 
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h3> 
     <p>
         <a href="https://www.instagram.com/hun.b.g/"> 
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
         </a>
         <a href="https://velog.io/@hun01/posts"> 
-            <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
-        </a>
-        <a href="https://github.com/HUN0914">
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHUN0914&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" />
+            <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/6/6a/Velog_logo.svg&logoColor=white">
         </a>
     </p>
-</div>
-
-<div align="left"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-        <img src="https://github-readme-stats.vercel.app/api?username=HUN0914&bg_color=180,f0effb,00000000&title_color=000000&text_color=000000" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUN0914&layout=compact&bg_color=180,f0effb,00000000&title_color=000000&text_color=000000" />
-        <a href="https://solved.ac/bkh0914/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bkh0914" />
-        </a>
 </div>
