@@ -1,12 +1,12 @@
 <div align="left"> 
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔗 Algorithm </h3>  
+    <h3 style="border-bottom: 1px solid #ffffff; color: #c9d1d9;"> 🔗 Algorithm </h3>  
     <a href="https://solved.ac/bkh0914/">
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bkh0914" alt="Baekjoon solved.ac badge" />
     </a>
 </div>
 
 <div align="left">
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h3> 
+    <h3 style="border-bottom: 1px solid #ffffff; color: #c9d1d9;"> 🛠️ Tech Stacks </h3> 
     <p>
         <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
@@ -18,7 +18,7 @@
 </div>
 
 <div align="left">
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h3> 
+    <h3 style="border-bottom: 1px solid #ffffff; color: #c9d1d9;"> 🧑‍💻 Contact me </h3> 
     <p>
         <a href="https://www.instagram.com/hun.b.g/"> 
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
